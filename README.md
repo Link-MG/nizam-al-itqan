@@ -11,12 +11,12 @@
 
 <br>
 
-<a href="https://github.com/Mohamed-Guilane/nizam-al-itqan/releases/latest/download/nizam-al-itqan.apk"><img src="https://img.shields.io/badge/Download-APK-1B4D5C?style=for-the-badge&logo=android&logoColor=white" alt="تحميل التطبيق" height="44"></a>
+<a href="https://github.com/Link-MG/nizam-al-itqan/releases/latest/download/nizam-al-itqan.apk"><img src="https://img.shields.io/badge/Download-APK-1B4D5C?style=for-the-badge&logo=android&logoColor=white" alt="تحميل التطبيق" height="44"></a>
 
 <img src="https://img.shields.io/badge/Android-8.0%2B-3F8F5A?style=flat-square&logo=android&logoColor=white" alt="Android 8.0+">
 <img src="https://img.shields.io/badge/Price-Free-D9A93F?style=flat-square" alt="مجاني">
 <img src="https://img.shields.io/badge/Internet-Not%20needed-1B4D5C?style=flat-square" alt="دون إنترنت">
-<img src="https://img.shields.io/github/v/release/Mohamed-Guilane/nizam-al-itqan?style=flat-square&color=5B6B70&label=Version" alt="الإصدار">
+<img src="https://img.shields.io/github/v/release/Link-MG/nizam-al-itqan?style=flat-square&color=5B6B70&label=Version" alt="الإصدار">
 
 </div>
 
@@ -69,7 +69,7 @@
 
 **يحتاج إلى:** أندرويد 8.0 أو أحدث، وكاميرا.
 
-**التحديث:** حمّل الإصدار الجديد من صفحة [الإصدارات](https://github.com/Mohamed-Guilane/nizam-al-itqan/releases) وثبّته فوق القديم: تبقى بياناتك كما هي. وأنشئ نسخة احتياطية قبل كل تحديث.
+**التحديث:** حمّل الإصدار الجديد من صفحة [الإصدارات](https://github.com/Link-MG/nizam-al-itqan/releases) وثبّته فوق القديم: تبقى بياناتك كما هي. وأنشئ نسخة احتياطية قبل كل تحديث.
 
 **التحقق من الملف:** بصمة SHA-256 لكل ملف مكتوبة في صفحة إصداره.
 
